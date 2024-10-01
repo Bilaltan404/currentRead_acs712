@@ -1,4 +1,4 @@
-# Install script for directory: D:/Users/26097970/Desktop/ESP_OTA/enesvs/esp32_ota_studies/hello_world/main
+# Install script for directory: D:/Users/26097970/Desktop/ESP_OTA/enesvs/esp32_ota_studies/currentRead_acs712/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

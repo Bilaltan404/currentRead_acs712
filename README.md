@@ -15,11 +15,6 @@ This project demonstrates how to read analog data using the ADC (Analog-to-Digit
 - **ADC Configuration**: The ADC is configured with 12-bit resolution and attenuation of 11dB.
 - **Periodic ADC Reading**: The ADC value is read every 2 seconds and printed to the console.
 
-## Project Structure
-
-. ├── main │ ├── main.c # Main source code file │ └── CMakeLists.txt # Build configuration file ├── CMakeLists.txt # Root build configuration file └── README.md # Project description file
-
-
 ## Code Explanation
 
 1. **Task Creation**:
@@ -56,8 +51,3 @@ This project demonstrates how to read analog data using the ADC (Analog-to-Digit
    ```bash
     idf.py monitor
 
-## Example Output
-    ```bash
-ADC Value: 1234
-ADC Value: 1456
-ADC Value: 1600

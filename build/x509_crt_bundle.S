@@ -1,4 +1,4 @@
-/* * Data converted from D:/Users/26097970/Desktop/ESP_OTA/enesvs/esp32_ota_studies/hello_world/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/Users/26097970/Desktop/ESP_OTA/enesvs/esp32_ota_studies/currentRead_acs712/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
